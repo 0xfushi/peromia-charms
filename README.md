@@ -11,6 +11,9 @@ Deployed to Arbitrum Nova at: TBA
 Link: TBA
 
 
+https://user-images.githubusercontent.com/121357271/209456123-78fa9472-c76c-431a-8066-5d80122afcf7.mov
+
+
 ## Dev stuff
 Try running some of the following tasks:
 
